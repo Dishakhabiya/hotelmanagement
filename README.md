@@ -1,4 +1,4 @@
 # hotelmanagement
 first project of c++
 <br>
-author-disha Jain
+author-disha Jain (Khabiya)
